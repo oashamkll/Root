@@ -10,7 +10,7 @@ def print_banner():
     purple_color = Fore.MAGENTA  # Используем фиолетовый цвет
 
     # Генерация большого текста с помощью pyfiglet
-    banner_text = pyfiglet.figlet_format("SOFT", font="big")  # Используем крупный шрифт
+    banner_text = pyfiglet.figlet_format("HACK ROOT", font="big")  # Используем крупный шрифт
     width = os.get_terminal_size().columns  # Ширина экрана
     height = os.get_terminal_size().lines  # Высота экрана
     
