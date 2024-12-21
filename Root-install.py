@@ -1,5 +1,4 @@
 import baner
-import fon
 
 import time
 from colorama import Fore, Style, init
